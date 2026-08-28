@@ -4,13 +4,13 @@
   <img
     src="./assets/infinity-particle-pixel-transparent.gif"
     alt="Flowing gradient pixel infinity symbol"
-    width="500"
+    width="450"
   />
 
   <img
     src="./assets/profile-wordmark.svg"
     alt="641 — Systems in Motion"
-    width="500"
+    width="450"
   />
 
 </div>
