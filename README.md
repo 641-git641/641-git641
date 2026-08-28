@@ -31,13 +31,13 @@
 <br />
 
 <img
-  src="./assets/current-orbit-heading.svg?v=4"
+  src="./assets/current-orbit-heading-black.svg"
   alt="Current Orbit — Component Bay · Signal Panel"
   width="48%"
   align="right"
 />
 <img
-  src="./assets/capability-map-heading.svg?v=4"
+  src="./assets/capability-map-heading-black.svg"
   alt="Capability Map — What I Build · How I Deliver"
   width="48%"
   align="left"
