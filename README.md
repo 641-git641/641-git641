@@ -40,7 +40,7 @@
 <img
   src="./assets/orbit-right-pad.svg"
   alt=""
-  width="15.5%"
+  width="15%"
   align="right"
 />
   <!-- COMPONENT BAY: append new skill IDs to the i= list; perline=3 keeps the grid. -->
@@ -65,10 +65,11 @@
     alt="Golang 后端开发、Kubernetes 云原生、Java 服务端开发、Kotlin 多平台、Python AI 与自动化、TypeScript 全栈开发、MySQL 数据库、Redis 缓存"
   />
 
+<!-- Invisible column guard: its transparent height prevents either column from crossing the center line. -->
 <img
   src="./assets/orbit-column-fill.svg"
   alt=""
-  width="53%"
+  width="52.5%"
   align="right"
 />
 
