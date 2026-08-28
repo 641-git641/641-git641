@@ -10,7 +10,7 @@
   <img
     src="./assets/profile-wordmark.svg"
     alt="641 — Systems in Motion"
-    width="800"
+    width="600"
   />
 
 </div>
