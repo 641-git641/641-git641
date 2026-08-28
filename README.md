@@ -38,7 +38,7 @@
   />
 </div>
 <img
-  src="./assets/orbit-right-pad-3col.svg"
+  src="./assets/orbit-right-pad-3col-lower.svg"
   alt=""
   width="15%"
   align="right"
@@ -47,12 +47,12 @@
   <img
     width="18%"
     align="right"
-    vspace="18"
+    vspace="24"
     src="https://go-skill-icons.vercel.app/api/icons?i=go,kubernetes,java,kotlin,python,typescript,mysql,redis,docker,linux,zed,claude,chatgpt,deepseek&amp;perline=3&amp;theme=dark"
     alt="Go, Kubernetes, Java, Kotlin, Python, TypeScript, MySQL, Redis, Docker, Linux, Zed, Claude, Codex and DeepSeek"
   />
   <img
-    src="./assets/orbit-left-pad-3col.svg"
+    src="./assets/orbit-left-pad-3col-lower.svg"
     alt=""
     width="19.5%"
     align="right"
@@ -67,7 +67,7 @@
 
 <!-- Invisible column guard: its transparent height prevents either column from crossing the center line. -->
 <img
-  src="./assets/orbit-column-fill-3col.svg"
+  src="./assets/orbit-column-fill-3col-lower.svg"
   alt=""
   width="52.5%"
   align="right"
