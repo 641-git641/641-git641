@@ -4,7 +4,7 @@
   <img
     src="./assets/infinity-particle-pixel-transparent.gif"
     alt="Flowing gradient pixel infinity symbol"
-    width="800"
+    width="600"
   />
 
   <img
