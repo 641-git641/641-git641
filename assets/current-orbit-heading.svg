@@ -1,14 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="78" viewBox="0 0 480 78" role="img" aria-labelledby="title desc">
   <title id="title">Current Orbit</title>
   <desc id="desc">Component Bay · Signal Panel</desc>
-  <style>
-    .title { fill: #1f2328; font: 600 18px ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
-    .subtitle { fill: #59636e; font: 11px ui-sans-serif, system-ui, sans-serif; letter-spacing: 0.7px; }
-    @media (prefers-color-scheme: dark) {
-      .title { fill: #f0f6fc; }
-      .subtitle { fill: #9198a1; }
-    }
-  </style>
-  <text class="title" x="240" y="31" text-anchor="middle">—— CURRENT ORBIT ——</text>
-  <text class="subtitle" x="240" y="53" text-anchor="middle">COMPONENT BAY · SIGNAL PANEL</text>
+  <text x="240" y="31" text-anchor="middle" fill="#A78BFA" font-family="Consolas, monospace" font-size="18" font-weight="700">—— CURRENT ORBIT ——</text>
+  <text x="240" y="53" text-anchor="middle" fill="#8B949E" font-family="Arial, sans-serif" font-size="11" letter-spacing="0.7">COMPONENT BAY · SIGNAL PANEL</text>
 </svg>
