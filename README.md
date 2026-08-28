@@ -47,7 +47,7 @@
   <img
     width="18%"
     align="right"
-    vspace="12"
+    vspace="18"
     src="https://skillicons.dev/icons?i=go,kubernetes,java,kotlin,py,ts,mysql,redis&amp;perline=3&amp;theme=dark"
     alt="Go, Kubernetes, Java, Kotlin, Python, TypeScript, MySQL and Redis"
   />
@@ -72,8 +72,6 @@
   width="52.5%"
   align="right"
 />
-
-<br />
 
 #### `01` 云原生与容器 <sup><samp> CLOUD NATIVE / CONTAINERS</samp></sup>
 
