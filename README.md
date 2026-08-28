@@ -30,18 +30,13 @@
 
 <br />
 
-<img
-  src="./assets/current-orbit-heading-black.svg"
-  alt="Current Orbit — Component Bay · Signal Panel"
-  width="48%"
-  align="right"
-/>
-<img
-  src="./assets/capability-map-heading-black.svg"
-  alt="Capability Map — What I Build · How I Deliver"
-  width="48%"
-  align="left"
-/>
+<div align="center">
+  <img
+    src="./assets/dual-section-headings-black.svg"
+    alt="Capability Map and Current Orbit"
+    width="96%"
+  />
+</div>
 <img
   src="./assets/orbit-right-pad.svg"
   alt=""
