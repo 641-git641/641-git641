@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="78" viewBox="0 0 960 78" role="img" aria-labelledby="title desc">
+  <title id="title">Capability Map and Current Orbit</title>
+  <desc id="desc">What I Build · How I Deliver; Component Bay · Signal Panel</desc>
+
+  <g fill="#000000" font-family="Consolas, monospace" font-size="18" font-weight="700" text-anchor="middle">
+    <text x="240" y="31">—— CAPABILITY MAP ——</text>
+    <text x="720" y="31">—— CURRENT ORBIT ——</text>
+  </g>
+
+  <g fill="#57606A" font-family="Arial, sans-serif" font-size="11" letter-spacing="0.7" text-anchor="middle">
+    <text x="240" y="53">WHAT I BUILD · HOW I DELIVER</text>
+    <text x="720" y="53">COMPONENT BAY · SIGNAL PANEL</text>
+  </g>
+</svg>
