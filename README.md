@@ -73,25 +73,25 @@
   align="right"
 />
 
-#### `01` 云原生与容器 <sup><samp> CLOUD NATIVE / CONTAINERS</samp></sup>
+#### `01` 云原生与容器 <sup><samp>   CLOUD NATIVE / CONTAINERS</samp></sup>
 
 <kbd>Kubernetes</kbd>&nbsp; <kbd>Docker</kbd>&nbsp; <kbd>Apache Camel K</kbd>&nbsp; <kbd>Operator</kbd>
 
 > 熟悉 Kubernetes、Docker 与容器运维；具备 **Apache Camel K 源码贡献经验**，理解 Operator、Trait 与 Pod Spec 生成链路。
 
-#### `02` 后端开发 <sup><samp> BACKEND ENGINEERING</samp></sup>
+#### `02` 后端开发 <sup><samp>   BACKEND ENGINEERING</samp></sup>
 
 <kbd>Go</kbd>&nbsp; <kbd>Gin</kbd>&nbsp; <kbd>gnet</kbd>&nbsp; <kbd>gRPC</kbd>&nbsp; <kbd>Protobuf</kbd>
 
 > 使用 Go、Gin、gnet、gRPC 与 Protobuf 构建服务；熟悉 MySQL、Redis、Kafka，具备 **高并发长连接服务**设计与调优经验。
 
-#### `03` AI 工程能力 <sup><samp> AI ENGINEERING</samp></sup>
+#### `03` AI 工程能力 <sup><samp>   AI ENGINEERING</samp></sup>
 
 <kbd>Agent</kbd>&nbsp; <kbd>RAG</kbd>&nbsp; <kbd>Claude Code</kbd>&nbsp; <kbd>Codex</kbd>
 
 > 人工智能专业背景，熟悉 Agent、RAG 与模型调用治理，熟练使用 Claude Code、Codex 等 AI Coding 工具。
 
-#### `04` 可观测性与交付 <sup><samp> OBSERVABILITY / DELIVERY</samp></sup>
+#### `04` 可观测性与交付 <sup><samp>   OBSERVABILITY / DELIVERY</samp></sup>
 
 <kbd>Prometheus</kbd>&nbsp; <kbd>Grafana</kbd>&nbsp; <kbd>GitHub Actions</kbd>&nbsp; <kbd>Linux</kbd>
 
