@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="80" viewBox="0 0 720 80" role="img" aria-labelledby="title desc">
+  <title id="title">Current Orbit</title>
+  <desc id="desc">Component bay and signal panel</desc>
+
+  <defs>
+    <linearGradient id="spectrum" x1="150" y1="0" x2="570" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" />
+      <stop offset="0.5" stop-color="#8b5cf6" />
+      <stop offset="1" stop-color="#f472b6" />
+    </linearGradient>
+  </defs>
+
+  <g font-family="Consolas, monospace" text-anchor="middle">
+    <text x="360" y="38" fill="url(#spectrum)" font-size="19" font-weight="700" letter-spacing="1.5">—— CURRENT ORBIT ——</text>
+    <text x="360" y="62" fill="#8b949e" font-family="Arial, sans-serif" font-size="12" letter-spacing="0.8">COMPONENT BAY · SIGNAL PANEL</text>
+  </g>
+</svg>
